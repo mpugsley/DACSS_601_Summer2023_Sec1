@@ -1,8 +1,8 @@
 ---
 title: "Challenge 2 Instructions"
-author: "Meredith Rolfe"
+author: "Sean Conway"
 description: "Data wrangling: using group() and summarise()"
-date: "08/16/2022"
+date: "5/30/2023"
 format:
   html:
     toc: true
