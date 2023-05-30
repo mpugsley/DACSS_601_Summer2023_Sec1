@@ -1,8 +1,8 @@
 ---
 title: "Challenge 3 Instructions"
-author: "Meredith Rolfe"
+author: "Sean Conway"
 description: "Tidy Data: Pivoting"
-date: "08/17/2022"
+date: "5/30/2023"
 format:
   html:
     toc: true
