@@ -1,8 +1,8 @@
 ---
 title: "Challenge 5 Instructions"
-author: "Meredith Rolfe"
+author: "Sean Conway"
 description: "Introduction to Visualization"
-date: "08/22/2022"
+date: "5/30/2023"
 format:
   html:
     toc: true
