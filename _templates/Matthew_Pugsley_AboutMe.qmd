@@ -1,0 +1,33 @@
+title: "Matthew Pugsley"
+image: images/YourName.jpeg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: https://photos.app.goo.gl/YqqvVHrR5M1koFaV8 
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mpugsley
+---
+
+
+## Education/Work Background
+Bachelors in Digital Media Studies
+UX Researcher at HealthTech Company
+
+
+## R experience
+1 semester of Intro to R 5 years ago
+
+## Research interests
+I enjoy conducting Social Determinants of Health Surveys
+
+## Hometown
+Roslindale, MA
+
+## Hobbies
+I listen to a lot of podcasts about public health
+
+## Fun fact
+I am a triplet!
